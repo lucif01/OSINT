@@ -35,3 +35,9 @@
 * Sinister - https://sinister.ly/
 * Reddit - https://www.reddit.com/
 * Cracking - https://cracking.org/
+## Wiki
+* Hidden wiki - https://thehiddenwiki.com/
+## News
+* Propublica - https://www.propublica.org/
+## FileSharing
+* SecureDrop - https://securedrop.org/directory/
