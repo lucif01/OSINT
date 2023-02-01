@@ -43,4 +43,20 @@
 * SecureDrop - https://securedrop.org/directory/
 ## OSINT Tools
 *  Free IP search & identifications of IoC and IoA - https://prowl.lupovis.io/
+*  Search engine for data archives - https://intelx.io/
+*  Search and monitor devices connected to the internet -  https://netlas.io/
+*  Scan a website incoming and outgoing links and assets - https://urlscan.io/ 
+*  Identify an attack surface - https://fullhunt.io/ 
+*  Cyberspace search engine, users can search for network devices - https://www.zoomeye.org/
+*  Identify public data leaks - https://leakix.net/
+*  Search for devices connected to the internet - https://www.greynoise.io/
+*  Get information about devices connected to the internet - https://search.censys.io/
+*  Search for email addresses - https://hunter.io/ 
+*  Search for devices connected to the internet. Monitor potential attack vectors - https://www.criminalip.io/ 
+*  Map wireless access points around the world - https://www.wigle.net/
+*  Grep across a half million github repos - https://grep.app/
+*  Search for devices connected to the internet and monitor attack vector - https://www.onyphe.io/ 
+*  A vulnerability database - https://vulners.com/
+*  Search for devices connected to the internet - https://pulsedive.com/ 
+*  Search for S3 buckets that are public - https://grayhatwarfare.com/
 
